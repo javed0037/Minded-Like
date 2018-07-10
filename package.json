@@ -1,0 +1,24 @@
+{
+  "name": "like-minded",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "javed khan",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "jwt-simple": "^0.5.1",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.2.2",
+    "node-mailer": "^0.1.1",
+    "password-generator": "^2.2.0",
+    "twilio": "^3.17.5"
+  }
+}
