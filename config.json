@@ -1,0 +1,3 @@
+const accountSid = 'AC26b80d4aaacc7a0c2a40319852e5663d';
+const authToken  = '70b8210cf5034211e1806ad2744932e1';
+const  twilio_number    =  '+12568297885';
